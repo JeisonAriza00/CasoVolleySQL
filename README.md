@@ -1,16 +1,22 @@
 # Implementación del caso Volley usando GenMyModel
 
 **Universidad Distrital Francisco José de Caldas**
+
 **Facultad de Ingeniería**
+
 **Especialización en Ingeniería de Software**
+
 **Desarrollo de Software**
+
 **Docente: Jorge Mario Calvo Londoño**
-  ![0](https://github.com/JeisonAriza00/CasoVolleySQL/blob/master/0.png)
+
+![0](https://github.com/JeisonAriza00/CasoVolleySQL/blob/master/0.png)
   
-| **Nombre: Jeisson Jair Ariza Pulido** | **Código:** 20201099026 |
+| **Nombre: Jeison Jair Ariza Pulido** | **Código:** 20201099026 |
 
+**Requerimiento:** 
 
-**Requerimiento:** Usando como base el documento con el caso Volley y la herramienta GenMyModel hacer la implementacion y despliegue automatico en un repositorio de GitHub.
+Usando como base el documento con el caso Volley y la herramienta GenMyModel hacer la implementacion y despliegue automatico en un repositorio de GitHub.
 
 **Procedimiento:** 
 
