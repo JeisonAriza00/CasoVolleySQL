@@ -21,3 +21,7 @@ Usando como base el documento con el caso Volley y la herramienta GenMyModel hac
 **Procedimiento:** 
 
 Con la herramienta GenMyModel se crea el modelo de entidades segun lo entendido en el documento enviado con el caso Volley, luego usando los diferentes generadores se implementa el modelo SQL y el codigo base en JAVA para la implementacion en Spring Root.
+
+**Modelo de entidades:** 
+
+![0](https://github.com/JeisonAriza00/CasoVolleySQL/blob/master/CasoVolley.PNG)
